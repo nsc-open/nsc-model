@@ -44,6 +44,7 @@ import { generateExcelTemplate, generateFormRules, validate } from 'nsc-model/ut
 ```
 
 
+For path resolve, go check object-path: https://github.com/mariocasciaro/object-path
 ```js
 const path = 'a.b[].c.d'
 const obj = {
